@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>City Book Fair 2026</title>
+    <link rel="stylesheet"href="style.
+ </head>
+<body>
+
+    <header>
+        <h1>City Book Fair 2026</h1>
+
+        <nav>
+            <ul>
+                <li><a href="#schedule">Schedule</a></li>
+                <li><a href="#activities">Activities</a></li>
+                <li><a href="#venue">Venue</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <article>
+            <h2>Discover the World of Books</h2>
+
+            <img
+                src="https://placehold.co/600x300?text=City+Book+Fair"
+                alt="Books displayed at the City Book Fair"
+            >
+
+            <p>
+                Join us at the City Book Fair to discover interesting books,
+                meet other readers, and enjoy a day full of stories and ideas.
+            </p>
+
+            <p>
+                <strong>Date:</strong> Saturday, November 21, 2026
+            </p>
+
+            <p>
+                <strong>Time:</strong> 10:00 AM
+            </p>
+
+            <p id="venue">
+                <strong>Location:</strong> City Public Library
+            </p>
+
+            <section id="schedule">
+                <h3>Event Schedule</h3>
+
+                <ul>
+                    <li>10:00 AM - Opening Ceremony</li>
+                    <li>11:00 AM - Meet the Authors</li>
+                    <li>02:00 PM - Reading Workshop</li>
+                </ul>
+            </section>
+
+            <section id="activities">
+                <h3>Activities</h3>
+                <p>
+                    Explore new books, enjoy reading activities,
+                    and share your love of stories.
+                </p>
+            </section>
+
+            <button type="button">Register Now</button>
+        </article>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 City Book Fair. All rights reserved.</p>
+
+        <p>
+            Contact us:
+            <a href="mailto:contact@example.com">contact@example.com</a>
+        </p>
+    </footer>
+
+</body>
+</html>
